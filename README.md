@@ -1,4 +1,5 @@
 # StrategyPattern
+![Strat](https://github.com/user-attachments/assets/dd87085e-a9fc-4fc9-855f-857e484bdc1a)
 
 Problem scenario:
 
