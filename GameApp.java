@@ -1,5 +1,5 @@
 public class GameApp {
-    private  Character chr;
+    private  Character ch;
     private AttackStrategy atk;
     private DefenseStrategy def;
 
