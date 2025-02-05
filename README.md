@@ -1,5 +1,5 @@
 # StrategyPattern
-![Strat](https://github.com/user-attachments/assets/dd87085e-a9fc-4fc9-855f-857e484bdc1a)
+![Strategy](https://github.com/user-attachments/assets/7c01745a-c59d-43fe-98d3-b2938264bacd)
 
 Output:
 ![Screenshot 2025-02-05 165722](https://github.com/user-attachments/assets/d4f0915b-60b2-463b-8f5c-244074865486)
